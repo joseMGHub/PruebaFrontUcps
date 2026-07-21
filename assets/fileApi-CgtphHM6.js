@@ -1,0 +1,1 @@
+import{aj as a,ak as e}from"./index-OU0VN3Jv.js";const n=async s=>(await a.post(e.STORAGE.FILE.UPLOAD,s)).data,p=async s=>(await a.post(e.STORAGE.FILE.UPDATE,s)).data,r=async s=>(await a.post(e.STORAGE.FILE.DELETE,s)).data;export{p as a,r,n as u};
